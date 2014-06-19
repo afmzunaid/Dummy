@@ -1,0 +1,2 @@
+file changed by two branch.
+Changed made by 1st branch.
